@@ -1,4 +1,4 @@
-# Proxiess
+# Proxies
 A bunch of proxy sites.
 
 
